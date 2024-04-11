@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**tetrahedronix/tetrahedronix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go enthusiast 🚀 | Linux user since '97, never touched Windows | Open source 'advocate' | Programming language aficionado, particularly fond of Go, C++, Fortran, Lua, and Vala | Exploring the realms of machine learning and generative AI | Bookworm 📚 | Solitary developer by nature and circumstance, embarking on a journey to explore the synergy between cowboy coding and software engineering through my site 'The Cowboy Coding Meets Software Engineering' 🤠💻
 
 Here are some ideas to get you started:
 
@@ -11,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
