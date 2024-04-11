@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Windows | Open source 'advocate' | Programming language aficionado, particularly fond of Go, C++, Fortran, Lua, and Vala | Exploring the realms of machine learning and generative AI | Bookworm 📚 | Solitary developer by nature and circumstance, embarking on a journey to explore the synergy between cowboy coding and software engineering through my site 'The Cowboy Coding Meets Software Engineering' 🤠💻
+Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Windows | Open source 'advocate' | Programming language aficionado, particularly fond of Go, C++, Fortran, Lua, and Vala | Exploring the realms of machine learning and generative AI | Bookworm 📚 | Solitary developer by nature and circumstance, embarking on a journey to explore the synergy between cowboy coding and software engineering through my site '[The Cowboy Coding Meets Software Engineering](http://formula42.cc)' 🤠💻
 
 > **Latest articles from my blog** 📝:
 >
