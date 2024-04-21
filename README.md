@@ -46,7 +46,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 <a href="https://linkedin.com/in/formula42cc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="formula42cc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3067430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="3067430" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/UCMuJopo3p886qKZgbK1UrcQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="formula42cc" height="30" width="40" /></a>
-<a href="/http://formula42.cc/en/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://formula42.cc/en/posts/index.xml" height="30" width="40" /></a>
+<a href="http://formula42.cc/en/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://formula42.cc/en/posts/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Support me</h3>
