@@ -24,14 +24,14 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 <h3 align="center">Blogs posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-> **Latest articles from my English blog** 📝:
->
-> - 📎 [Understanding the Basics: An Introduction to Formal Languages and Grammars](/) 🚧
->
-> **Latest articles from my Italian blog** 📝:
->
-> - 📎 [Capire le basi. Un'introduzione ai linguaggi formali e alle grammatiche](/) 🚧
-> - 📎 [Primo contatto con le espressioni regolari](http://formula42.cc/diario/2023/primo-contatto-con-le-espressioni-regolari/) 🇮🇹
+**Latest articles from my English blog** 📝:
+
+- 📎 [Understanding the Basics: An Introduction to Formal Languages and Grammars](/) 🚧
+
+**Latest articles from my Italian blog** 📝:
+
+- 📎 [Capire le basi. Un'introduzione ai linguaggi formali e alle grammatiche](/) 🚧
+- 📎 [Primo contatto con le espressioni regolari](http://formula42.cc/diario/2023/primo-contatto-con-le-espressioni-regolari/) 🇮🇹
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Languages and Tools</h3>
