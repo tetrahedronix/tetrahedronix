@@ -9,7 +9,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 👯 I’m looking to collaborate on [Go Lang](http://golang.org)
 
-- 🤝 I’m looking for help with [Secret project](http://formula42.cc)
+- 🤝 I’m looking for help with [Secret project](http://formula42.cc) (**Contact me!**)
 
 - 👨‍💻 All of my projects are available at [http://formula42.cc/en/workshop](http://formula42.cc/en/workshop)
 
