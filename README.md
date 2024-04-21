@@ -19,8 +19,6 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 📄 Know about my experiences [http://linkedin.com/in/formula42cc](http://linkedin.com/in/formula42cc)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tetrahedronix&label=Profile%20views&color=0e75b6&style=flat" alt="tetrahedronix" /> </p>
-
 ---
 
 <h3 align="center">Blogs posts</h3>
@@ -51,7 +49,9 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 </p>
 
 <h3 align="center">Support me</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/formula42"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/https://ko-fi.com/formula42"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/formula42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/https://ko-fi.com/formula42"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42" /></a></p><br><br>
 
+---
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tetrahedronix&label=Profile%20views&color=0e75b6&style=flat" alt="tetrahedronix" /> </p>
 
