@@ -15,7 +15,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 📝 I regularly write articles on [http://formula42.cc/en/posts](http://formula42.cc/en/posts)
 
-- 📫 How to reach me **rigorenkoNN@formula42.cc**
+- 📫 How to reach me **connettivista@formula42.cc**
 
 - 📄 Know about my experiences [http://linkedin.com/in/formula42cc](http://linkedin.com/in/formula42cc)
 
