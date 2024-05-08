@@ -28,7 +28,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 **Latest articles from my English blog** 📝:
 
-- 📎 [Confidense Against Climate Change](/../../workspace.formula42.cc/en/posts/fidusia-against-climate-change/fidusia-against-climate-change.pdf) 🇬🇧
+- 📎 [Confidense Against Climate Change](../../../workspace.formula42.cc/en/posts/fidusia-against-climate-change/fidusia-against-climate-change.pdf) 🇬🇧
 
 **Latest articles from my Italian blog** 📝:
 
