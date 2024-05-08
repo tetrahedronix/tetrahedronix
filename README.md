@@ -28,11 +28,11 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 **Latest articles from my English blog** 📝:
 
-- 📎 [Confidense Against Climate Change](en/posts/fidusia-against-climate-change/fidusia-against-climate-change.pdf) 🇬🇧
+- 📎 [Confidense Against Climate Change](../workspace.formula42.cc/en/posts/fidusia-against-climate-change/fidusia-against-climate-change.pdf) 🇬🇧
 
 **Latest articles from my Italian blog** 📝:
 
-- 📎 [Fidusia contro il cambiamento climatico](it/diario/fidusia-contro-il-cambiamento-climatico/latex/fidusia-contro-il-cambiamento-climatico.pdf) 🇮🇹
+- 📎 [Fidusia contro il cambiamento climatico](../workspace.formula42.cc/it/diario/fidusia-contro-il-cambiamento-climatico/latex/fidusia-contro-il-cambiamento-climatico.pdf) 🇮🇹
 - 📎 [Primo contatto con le espressioni regolari](http://formula42.cc/diario/2023/primo-contatto-con-le-espressioni-regolari/) 🇮🇹
 
 <h3 align="center">Languages and Tools</h3>
