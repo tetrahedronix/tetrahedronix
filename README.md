@@ -28,11 +28,11 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 **Latest articles from my English blog** 📝:
 
-- 📎 [Understanding the Basics: An Introduction to Formal Languages and Grammars](/) 🚧
+- 📎 [Confidense Against Climate Change](en/posts/fidusia-against-climate-change/fidusia-against-climate-change.pdf) 🇬🇧
 
 **Latest articles from my Italian blog** 📝:
 
-- 📎 [Capire le basi. Un'introduzione ai linguaggi formali e alle grammatiche](/) 🚧
+- 📎 [Fidusia contro il cambiamento climatico](it/diario/fidusia-contro-il-cambiamento-climatico/latex/fidusia-contro-il-cambiamento-climatico.pdf) 🇮🇹
 - 📎 [Primo contatto con le espressioni regolari](http://formula42.cc/diario/2023/primo-contatto-con-le-espressioni-regolari/) 🇮🇹
 
 <h3 align="center">Languages and Tools</h3>
