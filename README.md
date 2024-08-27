@@ -50,7 +50,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 </p>
 
 <h3 align="center">Support me</h3>
-<p align="center"><a href="https://buymeacoffee.com/formula42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/formula42"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42cc" /></a></p><br><br>
+<p align="center"><a href="https://buymeacoffee.com/formula42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/formula42cc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42cc" /></a></p><br><br>
 
 ---
 
