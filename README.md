@@ -5,7 +5,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 🔭 I’m currently working on [Formula 42](http://formula42.cc)
 
-- 🌱 I’m currently learning **Formal Language Theory and Automata, Discrete Mathematics, LUA, Defold, Fortran**
+- 🌱 I’m currently learning **Discrete Mathematics, LUA, Defold, Fortran, Prolog**
 
 - 👯 I’m looking to collaborate on [Go Lang](http://golang.org)
 
@@ -15,7 +15,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 📝 I regularly write articles on [http://formula42.cc/en/posts](http://formula42.cc/en/posts)
 
-- 📫 How to reach me **connettivista@formula42.cc**
+- 📫 How to reach me **giulio@formula42.cc**
 
 - 📄 Know about my experiences [http://linkedin.com/in/formula42](http://linkedin.com/in/formula42)
 
@@ -49,8 +49,8 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 <a href="http://formula42.cc/en/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="http://formula42.cc/en/posts/index.xml" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Support me</h3>
-<p align="center"><a href="https://buymeacoffee.com/formula42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/formula42cc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42cc" /></a></p><br><br>
+<!-- <h3 align="center">Support me</h3> -->
+<!-- <p align="center"><a href="https://buymeacoffee.com/formula42"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/formula42" /></a><a href="https://ko-fi.com/formula42cc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/formula42cc" /></a></p><br><br> -->
 
 ---
 
