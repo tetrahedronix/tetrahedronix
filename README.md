@@ -5,7 +5,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 🔭 I’m currently working on [Formula 42](http://formula42.cc)
 
-- 🌱 I’m currently learning **Discrete Mathematics, LUA, Defold, Fortran, Prolog**
+- 🌱 I’m currently learning **Discrete Mathematics, Prolog, Golang, Fortran, Machine Learning**
 
 - 👯 I’m looking to collaborate on [Go Lang](http://golang.org)
 
@@ -18,6 +18,8 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 - 📫 How to reach me **giulio@formula42.cc**
 
 - 📄 Know about my experiences [http://linkedin.com/in/formula42](http://linkedin.com/in/formula42)
+
+- 🎮 My Steam Profile [Blazkowicz](https://steamcommunity.com/id/gamow/)
 
 ---
 
