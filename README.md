@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giulio Carlo</h1>
 <h3 align="center">A student-worker in the IT field from Italy</h3>
 
-Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Windows | Open source 'advocate' | Programming language aficionado, particularly fond of Go, C++, Fortran, Lua, and Vala | Exploring the realms of machine learning and generative AI | Bookworm 📚 | Solitary developer by nature and circumstance, embarking on a journey to explore the synergy between cowboy coding and software engineering through my site '[The Cowboy Coding Meets Software Engineering](http://formula42.cc)' 🤠💻
+Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Windows | Open source 'advocate' | Programming language aficionado, particularly fond of Go, C++, Fortran | Exploring the realms of machine learning and generative AI | Bookworm 📚 | Solitary developer by nature and circumstance, embarking on a journey to explore the synergy between cowboy coding and software engineering through my site '[The Cowboy Coding Meets Software Engineering](http://formula42.cc)' 🤠💻
 
 - 🔭 I’m currently working on [Formula 42](http://formula42.cc)
 
@@ -34,6 +34,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 **Latest articles from my Italian blog** 📝:
 
+- 📎 [I ponti di Königsberg](http://www.formula42.cc/diario/2025/i-ponti-di-konigsberg/) 🇮🇹
 - 📎 [Fidusia contro il cambiamento climatico](https://github.com/tetrahedronix/workspace.formula42.cc/blob/main/it/diario/fidusia-contro-il-cambiamento-climatico/latex/fidusia-contro-il-cambiamento-climatico.pdf) 🇮🇹
 - 📎 [Primo contatto con le espressioni regolari](http://formula42.cc/diario/2023/primo-contatto-con-le-espressioni-regolari/) 🇮🇹
 
