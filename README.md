@@ -19,6 +19,8 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 📄 Know about my experiences [http://linkedin.com/in/formula42](http://linkedin.com/in/formula42)
 
+- 🤖 Kaggle Profile [RigorenkoNN](https://www.kaggle.com/rigorenkonn)
+
 - 🤗 My Hugging Face Profile [Formula42](https://huggingface.co/formula42)
 
 - 🎮 My Steam Profile [Blazkowicz](https://steamcommunity.com/id/gamow/)
