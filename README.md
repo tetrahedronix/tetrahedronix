@@ -23,7 +23,7 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 🤗 My Hugging Face Profile [Formula42](https://huggingface.co/formula421)
 
-- 🎮 My Steam Profile [Blazkowicz](https://steamcommunity.com/id/gamow/)
+
 
 
 ---
