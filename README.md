@@ -5,13 +5,19 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 
 - 🔭 I’m currently working on [Formula 42](http://formula42.cc)
 
-- 🌱 I’m currently learning **Discrete Mathematics, Prolog, Golang, Fortran, Machine Learning**
+- 🌱 I’m currently learning:
+  * **Discrete Mathematics**
+  * **Statistics and Data Analysis**
+  * **C Language**
+  * **Python Lanague**
+  * **Mojo Language**
+  * **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Go Lang](http://golang.org)
 
 - 🤝 I’m looking for help with [Secret project](http://formula42.cc) (**Contact me!**)
 
-- 👨‍💻 All of my projects are available at [http://formula42.cc/en/workshop](http://formula42.cc/en/workshop)
+- 👨‍💻 All of my projects are available at [http://formula42.cc/en/portforlio](http://formula42.cc/en/portfolio)
 
 - 📝 I regularly write articles on [http://formula42.cc/en/posts](http://formula42.cc/en/posts)
 
@@ -22,6 +28,8 @@ Meet Giulio Carlo | Go enthusiast 🚀 | Linux user since '97, never touched Win
 - 🤖 Kaggle Profile [RigorenkoNN](https://www.kaggle.com/rigorenkonn)
 
 - 🤗 My Hugging Face Profile [Formula42](https://huggingface.co/formula421)
+
+- 🎮 My Steam Profile [Blazkowicz](https://steamcommunity.com/id/gamow/)
 
 
 
